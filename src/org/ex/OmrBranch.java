@@ -6,6 +6,7 @@ public class OmrBranch {
 		System.out.println(s.charAt(2));
 		System.out.println(s.length());
 		System.out.println(s);
+		System.out.println("Vidya");
 		System.out.println("ok");
 	}
 
